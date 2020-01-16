@@ -1,6 +1,6 @@
 # DQN-PyTorch-Breakout
 ## Overview
-An attempt at recreating DeepMind's implementation of Deep Q Learning on Atari Breakout using PyTorch.
+An attempt at recreating [DeepMind's implementation of Deep Q Learning on Atari Breakout](https://arxiv.org/pdf/1312.5602v1.pdf) using PyTorch.
 
 ## Dependencies
 * PyTorch
